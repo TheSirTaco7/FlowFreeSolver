@@ -16,7 +16,7 @@
 
 <h3>Example:</h3>
 
-<img src="https://github.com/TheSirTaco7/FlowFreeSolver/exampleFlow9" alt="exampleFlow" width="200"/>
+<img src="https://github.com/TheSirTaco7/FlowFreeSolver/exampleFlow" alt="exampleFlow" width="200"/>
 
 Would be:
 
