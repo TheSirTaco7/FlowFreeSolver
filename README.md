@@ -15,8 +15,13 @@
 <br>9: Orange
 
 <h3>Example:</h3>
-
-<img src="https://github.com/TheSirTaco7/FlowFreeSolver/exampleFlow" alt="exampleFlow" width="200"/>
+<img src="exampleFlow.jpg" alt="exampleFlow" width="200"/>
 
 Would be:
+
+1 0 7 0 5
+<br>0 0 3 0 9
+<br>0 0 0 0 0
+<br>0 7 0 5 0
+<br>0 1 3 9 0
 
