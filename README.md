@@ -1,14 +1,22 @@
+<h1>FlowFreeSolver</h1>
 <h3>This is a script to solve puzsles in the game flow free.</h3>
 
-<h3>board.txt</h3>
-board.txt is a text file to show the stating state of the board.
-0: Empty circle 
-1: Red
-2: Dark Red
-3: Blue
-4: Teal
-5: Dark purple
-6: Light Purple
-7: Green
-8: Yellow
-9: Orange
+<br><h2>board.txt</h2>
+<br>board.txt is a text file to show the stating state of the board.
+<br>0: Empty circle 
+<br>1: Red
+<br>2: Dark Red
+<br>3: Blue
+<br>4: Teal
+<br>5: Dark purple
+<br>6: Light Purple
+<br>7: Green
+<br>8: Yellow
+<br>9: Orange
+
+<h3>Example:</h3>
+
+<img src="https://github.com/TheSirTaco7/FlowFreeSolver/exampleFlow9" alt="exampleFlow" width="200"/>
+
+Would be:
+
